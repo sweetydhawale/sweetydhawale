@@ -1,6 +1,6 @@
 👋 Hi, I’m Sweety Dhawale  
    
- 💬 About me: ## 👋 About Me
+ 💬 About me:
   A versatile Data professional with 3.2+ years of experience and a passion for turning raw data into actionable insights. I specialize in Python, SQL, and data visualization tools like Tableau and Power BI.
 
  📈 Professioanl Highlight:
