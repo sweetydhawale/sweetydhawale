@@ -4,7 +4,8 @@
   A versatile Data professional with 3.2+ years of experience and a passion for turning raw data into actionable insights. I specialize in Python, SQL, and data visualization tools like Tableau and Power BI.
 
  📈 Professioanl Highlight:
-Data Analyst: Infosys PVT Limited, Pune (2022- Present)
+ 
+ -Data Analyst: Infosys PVT Limited, Pune (2022- Present)
 
 🌱 Currently exploring: Advanced Machine Learning, Big Data Analytics, and Data Warehousing.
 
@@ -21,9 +22,10 @@ Data Analyst: Infosys PVT Limited, Pune (2022- Present)
 - 📑 File Formats: CSV, Excel, JSON, XML
 
 🏆 Certifications :
-Microsoft Certified Power BI Data Analyst Associate (2025)
-Microsoft Certified Azure Data Engineer Associate (2024)
-Microsoft Certified Azure Fundamentals (2024)
+
+-Microsoft Certified Power BI Data Analyst Associate (2025)
+-Microsoft Certified Azure Data Engineer Associate (2024)
+-Microsoft Certified Azure Fundamentals (2024)
 
 📧 How to reach me: sweetydhawale155@gmail.com
 
