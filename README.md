@@ -1,5 +1,7 @@
-   👋 Hi, I’m Sweety Dhawale                                                            
- 💬 About me: Data Analyst with 3.2+ years of experience interpreting data, identifying trends, and supporting data-driven decision-making across various projects. Committed to transforming raw data into meaningful insights to improve business outcomes.
+👋 Hi, I’m Sweety Dhawale  
+   
+ 💬 About me: ## 👋 About Me
+  A versatile Data professional with 3.2+ years of experience and a passion for turning raw data into actionable insights. I specialize in Python, SQL, and data visualization tools like Tableau and Power BI.
 
  📈 Professioanl Highlight:
 Data Analyst: Infosys PVT Limited, Pune (2022- Present)
