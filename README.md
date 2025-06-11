@@ -5,11 +5,11 @@
 
  📈 Professioanl Highlight:
  
- -Data Analyst: Infosys PVT Limited, Pune (2022- Present)
+  -Data Analyst: Infosys PVT Limited, Pune (2022- Present)
 
 🌱 Currently exploring: Advanced Machine Learning, Big Data Analytics, and Data Warehousing.
 
-🔍 Data Analyst expertise in: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
+🔍 Data Analyst expertise in : Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
 
 💻 Technical Skills
 **Languages & Tools:**
@@ -24,7 +24,9 @@
 🏆 Certifications :
 
 -Microsoft Certified Power BI Data Analyst Associate (2025)
+
 -Microsoft Certified Azure Data Engineer Associate (2024)
+
 -Microsoft Certified Azure Fundamentals (2024)
 
 📧 How to reach me: sweetydhawale155@gmail.com
