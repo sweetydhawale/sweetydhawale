@@ -1,4 +1,4 @@
-                                                                 👋 Hi, I’m @sweety16
+   👋 Hi, I’m Sweety Dhawale                                                            
  💬 About me: Data Analyst with 3.2+ years of experience interpreting data, identifying trends, and supporting data-driven decision-making across various projects. Committed to transforming raw data into meaningful insights to improve business outcomes.
 
  📈 Professioanl Highlight:
