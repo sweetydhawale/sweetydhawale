@@ -1,1 +1,31 @@
-# sweety16
+                                                                 👋 Hi, I’m @sweety16
+ 💬 About me: Data Analyst with 3.2+ years of experience interpreting data, identifying trends, and supporting data-driven decision-making across various projects. Committed to transforming raw data into meaningful insights to improve business outcomes.
+
+ 📈 Professioanl Highlight:
+Data Analyst: Infosys PVT Limited, Pune (2022- Present)
+
+🌱 Currently exploring: Advanced Machine Learning, Big Data Analytics, and Data Warehousing.
+
+🔍 Data Analyst expertise in: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
+
+💻 Technical Skills
+**Languages & Tools:**
+- 🐍 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- 🧮 SQL (PostgreSQL, MySQL)
+- 📊 Excel (Pivot Tables, VLOOKUP, Power Query)
+- 📈 Data Visualization (Tableau, Power BI, Plotly)
+- 🧼 Data Cleaning & Preprocessing
+- 📦 ETL & Data Pipelines (Informatica, Pandas)
+- 📑 File Formats: CSV, Excel, JSON, XML
+
+🏆 Certifications :
+Microsoft Certified Power BI Data Analyst Associate (2025)
+Microsoft Certified Azure Data Engineer Associate (2024)
+Microsoft Certified Azure Fundamentals (2024)
+
+📧 How to reach me: sweetydhawale155@gmail.com
+
+📬 Connect with me:
+https://www.linkedin.com/in/sweety-dhawale7/
+
+
