@@ -12,45 +12,50 @@ Currently at Infosys, where I've delivered 5+ production releases with no critic
 💻 Technical Skills
 
 Azure Cloud:
-Azure Data Factory (ADF)
-Azure Databricks 
-ADLS Gen2 
-Azure SQL Database 
-Delta Lake 
-Azure Monitor
+
+-Azure Data Factory (ADF)
+-Azure Databricks 
+-ADLS Gen2 
+-Azure SQL Database 
+-Delta Lake 
+-Azure Monitor
 
 Languages:
-PySpark 
-Apache Spark 
-Python 
-SQL (Advanced) 
-T-SQL
+
+-PySpark 
+-Apache Spark 
+-Python 
+-SQL (Advanced) 
+-T-SQL
 
 Data Engineering:
-Medallion Architecture
-Data Lake Architecture 
-ETL/ELT 
-Incremental Loading 
-MERGE/UPSERT 
-Star Schema
-Dimensional Modeling 
-Data Warehousing 
-Data Quality Validation 
-Metadata-Driven Frameworks
+
+-Medallion Architecture
+-Data Lake Architecture 
+-ETL/ELT 
+-Incremental Loading 
+-MERGE/UPSERT 
+-Star Schema
+-Dimensional Modeling 
+-Data Warehousing 
+-Data Quality Validation 
+-Metadata-Driven Frameworks
 
 Tools & DevOps:
-GitHub 
-CI/CD Pipelines 
-Informatica PowerCenter
+
+-GitHub 
+-CI/CD Pipelines 
+-Informatica PowerCenter
 
 Databases:
-Oracle
-SQL Server
-PostgreSQL
+
+-Oracle
+-SQL Server
+-PostgreSQL
 
 📌 Featured Project
 
-🔹 Azure End-to-End Data Engineering Pipeline ← replace # with your repo link
+🔹 Azure End-to-End Data Engineering Pipeline
 
 Medallion Architecture (Bronze → Silver → Gold) pipeline built on Azure Databricks, ADF, Delta Lake, and PySpark. Demonstrates incremental loading via MERGE/UPSERT, metadata-driven transformation logic, and a multi-layer data quality validation framework.
 
@@ -64,7 +69,7 @@ Medallion Architecture (Bronze → Silver → Gold) pipeline built on Azure Data
 
 -Microsoft Certified Azure Fundamentals (2024)
 
-📧 How to reach me: sweetydhawale155@gmail.com
+📧 How to reach me: sweetydhawale16@gmail.com
 
 📬 Connect with me:
 https://www.linkedin.com/in/sweety-dhawale7/
