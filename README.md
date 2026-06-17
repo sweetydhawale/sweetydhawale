@@ -14,37 +14,37 @@ Currently at Infosys, where I've delivered 5+ production releases with no critic
 Azure Cloud:
 
 -Azure Data Factory (ADF)
--Azure Databricks 
--ADLS Gen2 
--Azure SQL Database 
+-Azure Databricks
+-ADLS Gen2
+-Azure SQL Database
 -Delta Lake 
 -Azure Monitor
 
 Languages:
 
--PySpark 
--Apache Spark 
--Python 
--SQL (Advanced) 
+-PySpark
+-Apache Spark
+-Python
+-SQL (Advanced)
 -T-SQL
 
 Data Engineering:
 
 -Medallion Architecture
 -Data Lake Architecture 
--ETL/ELT 
--Incremental Loading 
+-ETL/ELT
+-Incremental Loading
 -MERGE/UPSERT 
 -Star Schema
--Dimensional Modeling 
--Data Warehousing 
--Data Quality Validation 
+-Dimensional Modeling
+-Data Warehousing
+-Data Quality Validation
 -Metadata-Driven Frameworks
 
 Tools & DevOps:
 
--GitHub 
--CI/CD Pipelines 
+-GitHub
+-CI/CD Pipelines
 -Informatica PowerCenter
 
 Databases:
