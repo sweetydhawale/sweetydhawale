@@ -1,27 +1,32 @@
 👋 Hi, I’m Sweety Dhawale  
    
  💬 About me:
-  A versatile Data professional with 3+ years of experience and a passion for turning raw data into actionable insights. I specialize in Python, SQL, and data visualization tools like Tableau and Power BI.
+Data Engineer with 4+ years building enterprise-scale Azure data solutions. I specialize in metadata-driven ETL/ELT frameworks, Medallion Architecture pipelines, and scalable batch data processing on Azure Databricks, ADF, and Delta Lake.
+Currently at Infosys, where I've delivered 5+ production releases with no critical post-release issues, and was recognized with the Infosys INSTA Award for pipeline reliability improvements.
 
  📈 Professioanl Highlight:
  
-  -Data Analyst: Infosys PVT Limited, Pune (2022- Present)
-
-🌱 Currently exploring: Advanced Machine Learning, Big Data Analytics, and Data Warehousing.
-
-🔍 Data Analyst expertise in : Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Business Intelligence, and Reporting.
+  -Data Engineer: Infosys, Pune (2022- Present)
 
 💻 Technical Skills
-**Languages & Tools:**
-- 🐍 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-- 🧮 SQL (PostgreSQL, MySQL)
-- 📊 Excel (Pivot Tables, VLOOKUP, Power Query)
-- 📈 Data Visualization (Tableau, Power BI, Plotly)
-- 🧼 Data Cleaning & Preprocessing
-- 📦 ETL & Data Pipelines (Informatica, Pandas)
-- 📑 File Formats: CSV, Excel, JSON, XML
+Azure Cloud
+Azure Data Factory (ADF) Azure Databricks ADLS Gen2 Azure SQL Database Delta Lake Azure Monitor
+Languages
+PySpark Apache Spark Python SQL (Advanced) T-SQL
+Data Engineering
+Medallion Architecture Data Lake Architecture ETL/ELT Incremental Loading MERGE/UPSERT Star Schema Dimensional Modeling Data Warehousing Data Quality Validation Metadata-Driven Frameworks
+Tools & DevOps
+Git GitHub CI/CD Pipelines Informatica PowerCenter
+Databases
+Oracle SQL Server PostgreSQL
+
+📌 Featured Project
+🔹 Azure End-to-End Data Engineering Pipeline ← replace # with your repo link
+Medallion Architecture (Bronze → Silver → Gold) pipeline built on Azure Databricks, ADF, Delta Lake, and PySpark. Demonstrates incremental loading via MERGE/UPSERT, metadata-driven transformation logic, and a multi-layer data quality validation framework.
 
 🏆 Certifications :
+
+-Microsoft Certified: Fabric Analytics Engineer Associate (2025)
 
 -Microsoft Certified Power BI Data Analyst Associate (2025)
 
